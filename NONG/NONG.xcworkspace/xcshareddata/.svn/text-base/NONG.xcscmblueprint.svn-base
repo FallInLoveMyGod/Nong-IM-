@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2a59f925-82e4-4d1a-a6b0-ab67ad03f8c7++7076",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2a59f925-82e4-4d1a-a6b0-ab67ad03f8c7++7076" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2a59f925-82e4-4d1a-a6b0-ab67ad03f8c7++7076" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "70F7C005-AD3E-4156-AE14-B3FB6D880A04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2a59f925-82e4-4d1a-a6b0-ab67ad03f8c7++7076" : "Taixia_NONG\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NONG",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NONG.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/114.55.43.209",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2a59f925-82e4-4d1a-a6b0-ab67ad03f8c7++7076"
+    }
+  ]
+}
